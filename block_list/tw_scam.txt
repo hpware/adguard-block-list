@@ -1,3 +1,9 @@
+# 來自165網站
+# 未完成
+# AdGuard Home Block
+# Url uncleaned
+# ------------------------------------------------------------------------------------------------
+
 www.0xdappplus.com
 www.0xplusdapp.com
 www.100exbank.com

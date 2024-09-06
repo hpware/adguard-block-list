@@ -1,4 +1,5 @@
 # AdGuard Block List & Allow lists
+[中文 TBD](https://github.com/hpware/adguard-block-list/blob/main/README-zh.md)  [English](https://github.com/hpware/adguard-block-list/blob/main/README.md)
 ### Block Lists
 - Line.txt
 <br>Intergrate https://raw.githubusercontent.com/hpware/adguard-block-list/main/block_list/line-ads.txt into AdGuard Home.
@@ -14,7 +15,7 @@
 - Allow Taiwanese Hanlin Services
 <br>Intergrate https://raw.githubusercontent.com/hpware/adguard-block-list/main/allow_list/hanlin_unblock.txt into Adguard Home.
 ## How to install?
-### AdGuard Home
+### Install AdGuard Home
 Follow the offical guide [Here](https://github.com/AdguardTeam/AdGuardHome?tab=readme-ov-file#getting-started) or run the Following commands
 <br>
 - To install via curl:
@@ -32,3 +33,5 @@ wget --no-verbose -O - https://raw.githubusercontent.com/AdguardTeam/AdGuardHome
 ```
 - To install via Docker
 <br>[Docker Image ](https://hub.docker.com/r/adguard/adguardhome)
+### Follow the install
+

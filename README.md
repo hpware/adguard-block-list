@@ -15,7 +15,15 @@
 - Allow Taiwanese Hanlin Services
 <br>Intergrate https://raw.githubusercontent.com/hpware/adguard-block-list/main/allow_list/hanlin_unblock.txt into Adguard Home.
 ## How to install?
+### Install OS
+The options here are for self hosting. However if you only have a few computers or have no abilty to use linux, use the cloud
+<br>I would like to recommend Vultr's 5$ plan, The link below will be a Referer link.
+<br>[https://www.vultr.com/media/logo_onwhite.png](https://www.vultr.com/?ref=9650799)
+<br>AdGuard Home is better run with debian, but for ease of install we will be installing Ubuntu.
+<br>First, Download the GUI verison [here](https://ubuntu.com/download/desktop) you MUST download the LTS version to be updated.
+<br>Second, Follow the GUI.
 ### Install AdGuard Home
+ssh into the remote or local server via ```ssh user@ip```
 Follow the offical guide [Here](https://github.com/AdguardTeam/AdGuardHome?tab=readme-ov-file#getting-started) or run the Following commands
 <br>
 - To install via curl:

@@ -81,5 +81,12 @@ sudo ufw allow 80 && sudo ufw allow 3000 && sudo ufw allow 443
 sudo apt update
 sudo apt install snap -y
 sudo snap install certbot --classic
-
+sudo certbot certonly
 ```
+6. Select the second option by typing 2 and enter
+7. Type your email
+8. Agree to the terms and Newsletter
+9. type your domain which you set earlier
+10. It will give you two paths, copy these and paste into the dashboard
+11. And Sucess!
+<br>NOTE: If there is any errors, ignore and go back to disable the encryption if needed.

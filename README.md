@@ -30,7 +30,7 @@ The options here are for self hosting. However if you only have a few computers 
 8. Disable auto backups, you just don't need it.
 9. Then click on Deploy.
 10. Wait until sucess.
-<br>Then run the commands below. 
+<br>Then run the commands [below](https://github.com/hpware/adguard-block-list/blob/main/README.md#install-adguard-home).
 #### Local Install
 <br>AdGuard Home is better run with debian, but for ease of install we will be installing Ubuntu.
 <br>First, Download the GUI verison [here](https://ubuntu.com/download/desktop) you MUST download the LTS version to be updated.

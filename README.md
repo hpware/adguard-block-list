@@ -51,8 +51,35 @@ curl -s -S -L https://raw.githubusercontent.com/AdguardTeam/AdGuardHome/master/s
 sudo apt update
 sudo apt install wget -y
 wget --no-verbose -O - https://raw.githubusercontent.com/AdguardTeam/AdGuardHome/master/scripts/install.sh | sh -s -- -v
+
 ```
 - To install via Docker
 <br>[Docker Image ](https://hub.docker.com/r/adguard/adguardhome)
 ### Follow the install
+1. Run the commands below
+```sh
+sudo ufw allow 80 && sudo ufw allow 3000 && sudo ufw allow 443
+```
+2. Go to http://ip:3000
+3. Click on Get Started
+4. Ignore everything, Click next
+5. Enter your username and password. You are free to use what ever you like, just don't use weak passwords ;)
+6. Click Next then Open Dashboard, you should be logged out.
+7. Login with your username and password you just set earlier.
+8. Go to Filters then DNS Blocklists
+9. Click on the add block list and Click add custom Block list.
+10. Enter any name and the URL should be the URLs on the top
+11. Click Save
+<br>Congrats, you have just finished!
+### DNS over HTTPS
+1. Buy a domain or use a domain that you own.
+2. Click on Settings and Encryption Settings
+3. Click enable encryption, if you are using the public cloud, I would recommend unchecking the plain DNS option, as your bandwidth will be used by other people.
+4. Enter your domain it should be like ```subdomain.example.com``` and check redirect to HTTPS automattically, and note, do not change any of the ports.
+5. Go back to the server ssh window run these commands
+```sh
+sudo apt update
+sudo apt install snap -y
+sudo snap install certbot --classic
 
+```

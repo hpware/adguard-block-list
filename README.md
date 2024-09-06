@@ -24,7 +24,7 @@ The options here are for self hosting. However if you only have a few computers 
 <br>Second, Follow the GUI.
 ### Install AdGuard Home
 ssh into the remote or local server via ```ssh user@ip```
-Follow the offical guide [Here](https://github.com/AdguardTeam/AdGuardHome?tab=readme-ov-file#getting-started) or run the Following commands
+<br>Follow the offical guide [Here](https://github.com/AdguardTeam/AdGuardHome?tab=readme-ov-file#getting-started) or run the Following commands
 <br>
 - To install via curl:
 ```sh

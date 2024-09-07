@@ -1,15 +1,15 @@
 # AdGuard 封鎖列表和允許列表 (某些是用Google Translate翻譯的）
 [中文](https://github.com/hpware/adguard-block-list/blob/main/README-zh.md)  [English](https://github.com/hpware/adguard-block-list/blob/main/README.md)
-### Block Lists
+### 封鎖列表
 - Line.txt
 <br> https://raw.githubusercontent.com/hpware/adguard-block-list/main/block_list/line-ads.txt 放入 AdGuard home
 - TW-SCAM.txt
 <br>https://raw.githubusercontent.com/hpware/adguard-block-list/main/block_list/tw_scam.txt 放入 AdGuard home
-<br>Built from the offical scam list for the taiwanese gov. aka 165
+<br>根據台灣政府的官方詐騙名單。
 - 360_Redirect.txt
 <br>https://raw.githubusercontent.com/hpware/adguard-block-list/main/block_list/360_redirect.txt 放入 AdGuard home
-<br>Built via real 360 Redirects, if there is more plese file a issue request.
-### Allow Lists
+<br>透過真正的 360 Redirect ，如果有更多請提出問題請求。
+### 允許列表
 - Allow_Coin
 <br>https://raw.githubusercontent.com/hpware/adguard-block-list/main/allow_list/coin_allow.txt 放入 AdGuard home
 - Allow Taiwanese Hanlin Services

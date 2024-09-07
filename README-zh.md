@@ -17,7 +17,7 @@
 ## How to install?
 ### 安裝作業系統
 這裡的選項用於自託管。但是，如果您只有幾台電腦或沒有能力使用 Linux，請使用雲端
-<br>我想推薦 Vultr 的 5 美元計劃，下面的連結是一個 Referer 連結。
+<br>我推薦 Vultr 的 5 美元計劃，下面的連結是一個 Referer 連結。
 <br>[https://www.vultr.com/media/logo_onwhite.png](https://www.vultr.com/?ref=9650799)
 #### Vultr
 1. 點選部署按鈕

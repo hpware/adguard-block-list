@@ -1,5 +1,5 @@
 # AdGuard Block List & Allow lists
-[中文 TBD](https://github.com/hpware/adguard-block-list/blob/main/README-zh.md)  [English](https://github.com/hpware/adguard-block-list/blob/main/README.md)
+[中文](https://github.com/hpware/adguard-block-list/blob/main/README-zh.md)  [English](https://github.com/hpware/adguard-block-list/blob/main/README.md)
 ### Block Lists
 - Line.txt
 <br>Intergrate https://raw.githubusercontent.com/hpware/adguard-block-list/main/block_list/line-ads.txt into AdGuard Home.

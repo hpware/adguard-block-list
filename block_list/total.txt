@@ -8,6 +8,44 @@
  0.0.0.0 long5668.net
  0.0.0.0 war1688.long5688.net
  0.0.0.0 www.long5688.net
+ 0.0.0.0 sosocm.com
+ 0.0.0.0 login.sosocm.com
+ 0.0.0.0 www.sosocm.com
+ 0.0.0.0 999xc.net
+ 0.0.0.0 www.999xc.net
+ 0.0.0.0 online808.com
+ 0.0.0.0 www.online808.com
+ 0.0.0.0 online808.net
+ 0.0.0.0 www.online808.net
+ 0.0.0.0 qywin88.com
+ 0.0.0.0 www.qywin88.con
+ 0.0.0.0 wof888.com
+ 0.0.0.0 www.wof888.com
+ 0.0.0.0 scb5188.com
+ 0.0.0.0 www.scb5188.com
+ 0.0.0.0 kbb.tw
+ 0.0.0.0 www.kbb.tw
+ 0.0.0.0 lybobet.com
+ 0.0.0.0 lp.lybobet.com
+ 0.0.0.0 ip.lybobet.com
+ 0.0.0.0 www.lybobet.com
+ 0.0.0.0 gdf999.com
+ 0.0.0.0 www.gdf999.com
+ 0.0.0.0 fde.org.hk
+ 0.0.0.0 www.fde.org.hk
+ 0.0.0.0 gev889.com
+ 0.0.0.0 www.gev889.com
+ 0.0.0.0 xn--uis76c70xcwjzr1b.com
+ 0.0.0.0 www.xn--uis76c70xcwjzr1b.com
+ 0.0.0.0 7tg.xn--uis76c70xcwjzr1b.com
+ 0.0.0.0 hs-casino.com
+ 0.0.0.0 www.hs-casino.com
+ 0.0.0.0 xc9000.net
+ 0.0.0.0 www.xc9000.net
+ 0.0.0.0 qzplays.com
+ 0.0.0.0 www.qzplays.com
+ 0.0.0.0 okbank.com
+ 0.0.0.0 www.okbank.com
  0.0.0.0 
  0.0.0.0 www.0xdappplus.com
  0.0.0.0 www.0xplusdapp.com

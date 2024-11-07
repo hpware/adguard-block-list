@@ -90,3 +90,6 @@ sudo certbot certonly
 10.它會給你兩條路徑，複製它們並貼上到儀表板中
 11. 成功了！
 <br>注意：如果有任何錯誤，請忽略並返回以停用加密（如果需要）。
+
+
+ 編輯建議可以開 Github Issues 或 Email [issues+adgdocszh@yuanhau.com](mailto:issues+adgdocszh@yuanhau.com)

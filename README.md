@@ -19,6 +19,7 @@
 The options here are for self hosting. However if you only have a few computers or have no abilty to use linux, use the cloud
 <br>I would recommend Vultr's 5$ plan, The link below will be a Referer link.
 <br>[#https://www.vultr.com/media/logo_onwhite.png](https://www.vultr.com/?ref=9650799)
+![Vultr Logo](https://www.vultr.com/media/logo_onwhite.png))
 #### Vultr
 1. Click on the Deploy Button
 2. Select the Shared CPU option

@@ -18,7 +18,7 @@
 ### 安裝作業系統
 這裡的選項用於自託管。但是，如果您只有幾台電腦或沒有能力使用 Linux，請使用雲端
 <br>我推薦 Vultr 的 5 美元計劃，下面的連結是一個 Referer 連結。
-<br>[https://www.vultr.com/media/logo_onwhite.png](https://www.vultr.com/?ref=9650799)
+<br>[![Vultr Logo](https://www.vultr.com/media/logo_onwhite.png)](https://www.vultr.com/?ref=9650799)
 #### Vultr
 1. 點選部署按鈕
 2. 選擇共享CPU選項
@@ -36,7 +36,7 @@
 <br>首先，在[此處](https://ubuntu.com/download/desktop)下載 GUI 版本，您必須下載要更新的 LTS 版本。
 <br>第二，遵循 GUI。
 ### 安裝 AdGuard Home
-透過 ``ssh user@ip``` ssh 到遠端或本機伺服器
+透過 ```ssh user@ip``` ssh 到遠端或本機伺服器
 <br>依照官方指南[此處](https://github.com/AdguardTeam/AdGuardHome?tab=readme-ov-file#getting-started) 或執行以下命令
 <br>
 - 透過 curl 安裝：

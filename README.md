@@ -17,8 +17,8 @@
 ## How to install?
 ### Install OS
 The options here are for self hosting. However if you only have a few computers or have no abilty to use linux, use the cloud
-<br>I would like to recommend Vultr's 5$ plan, The link below will be a Referer link.
-<br>[https://www.vultr.com/media/logo_onwhite.png](https://www.vultr.com/?ref=9650799)
+<br>I would recommend Vultr's 5$ plan, The link below will be a Referer link.
+<br>[#https://www.vultr.com/media/logo_onwhite.png](https://www.vultr.com/?ref=9650799)
 #### Vultr
 1. Click on the Deploy Button
 2. Select the Shared CPU option
@@ -62,15 +62,15 @@ sudo ufw allow 80 && sudo ufw allow 3000 && sudo ufw allow 443
 ```
 2. Go to http://ip:3000
 3. Click on Get Started
-4. Ignore everything, Click next
+4. Ignore everything, And click next
 5. Enter your username and password. You are free to use what ever you like, just don't use weak passwords ;)
-6. Click Next then Open Dashboard, you should be logged out.
+6. Click Next then open the dashboard, you should be logged out.
 7. Login with your username and password you just set earlier.
-8. Go to Filters then DNS Blocklists
-9. Click on the add block list and Click add custom Block list.
+8. Go to filters then DNS blocklists
+9. Click on the add block list and click add custom Block list.
 10. Enter any name and the URL should be the URLs on the top
 11. Click Save
-<br>Congrats, you have just finished!
+<br>Congrats, you have just finished setting up DNS blockings!
 ### DNS over HTTPS
 1. Buy a domain or use a domain that you own.
 2. Click on Settings and Encryption Settings

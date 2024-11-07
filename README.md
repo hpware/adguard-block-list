@@ -93,4 +93,4 @@ sudo certbot certonly
 <br>NOTE: If there is any errors, ignore and go back to disable the encryption if needed.
 
 
-If you think that this documentation is not right or compelete? You can open a Github Issue or Email [issues+adgdocs@yuanhau.com](mailto:issues+adgdocs@yuanhau.com)
+If you think that this README is not right or incomplete? You can open a Github Issue or Email [issues+adgdocs@yuanhau.com](mailto:issues+adgdocs@yuanhau.com)

@@ -91,3 +91,6 @@ sudo certbot certonly
 10. It will give you two paths, copy these and paste into the dashboard
 11. And Sucess!
 <br>NOTE: If there is any errors, ignore and go back to disable the encryption if needed.
+
+
+If you think that this documentation is not right or compelete? You can open a Github Issue or Email [issues+adgdocs@yuanhau.com](mailto:issues+adgdocs@yuanhau.com)

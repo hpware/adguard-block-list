@@ -11,14 +11,18 @@
 <br>Built via real 360 Redirects, if there is more plese file a issue request.
 ### Allow Lists
 - Allow_Coin
-<br>Intergrate https://raw.githubusercontent.com/hpware/adguard-block-list/main/allow_list/coin_allow.txt into Adguard Home.
+
+Intergrate https://raw.githubusercontent.com/hpware/adguard-block-list/main/allow_list/coin_allow.txt into Adguard Home.
 - Allow Taiwanese Hanlin Services
-<br>Intergrate https://raw.githubusercontent.com/hpware/adguard-block-list/main/allow_list/hanlin_unblock.txt into Adguard Home.
+
+Intergrate https://raw.githubusercontent.com/hpware/adguard-block-list/main/allow_list/hanlin_unblock.txt into Adguard Home.
 ## How to install?
 ### Install OS
 The options here are for self hosting. However if you only have a few computers or have no abilty to use linux, use the cloud
-<br>I would recommend Vultr's 5$ plan, The link below will be a Referer link.
-<br/>[![Vultr Logo](https://www.vultr.com/media/logo_onwhite.png)](https://www.vultr.com/?ref=9650799)
+
+I would recommend Vultr's 5$ plan, The link below will be a Referer link.
+
+[![Vultr Logo](https://www.vultr.com/media/logo_onwhite.png)](https://www.vultr.com/?ref=9650799)
 
 #### Vultr
 1. Click on the Deploy Button
@@ -33,13 +37,16 @@ The options here are for self hosting. However if you only have a few computers 
 10. Wait until sucess.
 <br>Then run the commands [below](https://github.com/hpware/adguard-block-list/blob/main/README.md#install-adguard-home).
 #### Local Install
-<br>AdGuard Home is better run with debian, but for ease of install we will be installing Ubuntu.
-<br>First, Download the GUI verison [here](https://ubuntu.com/download/desktop) you MUST download the LTS version to be updated.
-<br>Second, Follow the GUI.
+AdGuard Home runs better with debian, but we will be using ubuntu here, as it is easy to install and it includes almost every package that is needed in this guide, and for the future, you also might want to install more things into your system, it has more support. (Although the software is developed by a for-profit company)
+
+First, Download the GUI verison [here](https://ubuntu.com/download/desktop) you MUST download the LTS version to be updated.
+
+Second, Follow the GUI.
 ### Install AdGuard Home
 ssh into the remote or local server via ```ssh user@ip``` 
-<br>Follow the offical guide [Here](https://github.com/AdguardTeam/AdGuardHome?tab=readme-ov-file#getting-started) or run the Following commands
-<br>
+
+Follow the offical guide [Here](https://github.com/AdguardTeam/AdGuardHome?tab=readme-ov-file#getting-started) or run the Following commands
+
 - To install via curl:
 ```sh
 sudo apt update
@@ -71,7 +78,8 @@ sudo ufw allow 80 && sudo ufw allow 3000 && sudo ufw allow 443
 9. Click on the add block list and click add custom Block list.
 10. Enter any name and the URL should be the URLs on the top
 11. Click Save
-<br>Congrats, you have just finished setting up DNS blockings!
+
+Congrats, you have just finished setting up DNS blockings!
 ### DNS over HTTPS
 1. Buy a domain or use a domain that you own.
 2. Click on Settings and Encryption Settings

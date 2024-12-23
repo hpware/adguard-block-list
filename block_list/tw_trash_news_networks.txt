@@ -3,3 +3,5 @@ setn.com
 tvbs.com.tw
 www.tvbs.com.tw
 news.tvbs.com.tw
+ettoday.net
+www.ettoday.net

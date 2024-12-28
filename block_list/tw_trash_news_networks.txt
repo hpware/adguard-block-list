@@ -5,3 +5,7 @@ www.tvbs.com.tw
 news.tvbs.com.tw
 ettoday.net
 www.ettoday.net
+ctv.com.tw
+www.ctv.com.tw
+www.ctitv.com.tw
+ctitv.com.tw

@@ -6400,3 +6400,6 @@ ctv.com.tw
 www.ctv.com.tw
 www.ctitv.com.tw
 ctitv.com.tw
+
+img-s-msn-com.akamaized.net
+th.bing.com

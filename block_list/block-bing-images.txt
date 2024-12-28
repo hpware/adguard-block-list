@@ -1,2 +1,4 @@
+# Block Bing Images Since News normaly comes from the built in microsoft edge that wants people to click 
 img-s-msn-com.akamaized.net
 th.bing.com
+prod-streaming-video.msn.com
